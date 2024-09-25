@@ -1,0 +1,22 @@
+{
+    "InternalServerError": {
+        "vi": "Server đang gặp sự cố. Xin vui lòng thữ lại sau",
+        "en": "Internal server error. Please try again later"
+    },
+    "ErrorWhenFetchingUserData": {
+        "vi": "Lỗi khi tải dữ liệu người dùng",
+        "en": "Error when fetching user data"
+    },
+    "FixErrorsToRegister": {
+        "vi": "Vui lòng nhấn tạo tài khoản sau khi không còn lỗi nào được hiển thị",
+        "en": "Please click 'Create Account' once all errors have been resolved"
+    },
+    "PleaseEnterAllFields": {
+        "vi": "Vui lòng nhập đủ các yêu cầu trước khi nhấn vào đăng nhập!",
+        "en": "Please enter all fields before clicking on the login button!"
+    },
+    "EmailDoesNotExist": {
+        "vi": "Email này không tồn tại",
+        "en": "Email does not exist"
+    }
+}

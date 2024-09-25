@@ -1,0 +1,50 @@
+{
+    "nameIsRequired": {
+        "vi": "Tên là bắt buộc",
+        "en": "Name is required"
+    },
+    "emailIsRequired": {
+        "vi": "Email là bắt buộc",
+        "en": "Email is required"
+    },
+    "emailAlreadyExists": {
+        "vi": "Email đã tồn tại",
+        "en": "Email already exists"
+    },
+    "passwordIsRequired": {
+        "vi": "Mật khẩu là bắt buộc",
+        "en": "Password is required"
+    },
+    "confirmPasswordIsRequired": {
+        "vi": "Xác nhận mật khẩu là bắt buộc",
+        "en": "Confirm Password is required"
+    },
+    "confirmPasswordDoesNotMatch" : {
+        "vi": "Xác nhận mật khẩu không đúng",
+        "en": "Confirm Password does not match"
+    },
+    "RegisterSuccess": {
+        "vi": "Đăng ký thành công, vui lòng đăng nhập để tiếp tục",
+        "en": "Register successfully, please login to continue"
+    },
+    "EmailOrPasswordIncorrect": {
+        "vi": "Email hoặc mật khẩu không đúng",
+        "en": "Email or Password is incorrect"
+    },
+    "LoginSuccess": {
+        "vi": "Đăng nhập thành công",
+        "en": "Sign in success"
+    },
+    "LoginFailed": {
+        "vi": "Đăng nhập thất bại",
+        "en": "Login failed"
+    },
+    "AccountNotActive": {
+        "vi": "Tài khoản của bạn đã bị khóa do lỗi người dùng hoặc do lỗi xảy ra từ hệ thống. Vui lòng liên hệ với chúng tôi để xử lý",
+        "en": "Your account has been locked due to a user-related issue or a system malfunction. Please reach out to our support team for resolution"
+    },
+    "LogoutSuccessfully": {
+        "vi": "Đăng xuất thành công",
+        "en": "Logout successfully"
+    }
+}
